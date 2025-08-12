@@ -25,6 +25,7 @@ Accurate rainfall prediction is crucial for agriculture, water management, and d
 - Encode categorical variables
 
 **2. Model Training**
+
 Models implemented:
 
 - Linear Regression
@@ -38,6 +39,7 @@ Models implemented:
 - Support Vector Regressor
 
 **3. Model Evaluation**
+
 Metrics used:
 
 - Mean Squared Error (MSE)
