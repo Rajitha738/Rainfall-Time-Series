@@ -11,7 +11,7 @@ Accurate rainfall prediction is crucial for agriculture, water management, and d
 ## 📂 Dataset
 - Contains weather and climate-related features.
 
-- Preprocessing steps include handling missing values, encoding categorical variables, and scaling.
+- Preprocessing steps include handling missing values, encoding categorical variables.
 
 - The dataset was split into training and testing sets for evaluation.
 
