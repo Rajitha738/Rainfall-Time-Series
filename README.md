@@ -24,8 +24,6 @@ Accurate rainfall prediction is crucial for agriculture, water management, and d
 
 - Encode categorical variables
 
-- Feature scaling
-
 **2. Model Training**
 Models implemented:
 
