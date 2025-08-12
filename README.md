@@ -61,7 +61,7 @@ Metrics used:
 ## 📊 Results Summary
 | Model                    |      MSE |    MAE |      R² |
 | ------------------------ | -------: | -----: | ------: |
-| **Linear Regression**    |     8.31 |   2.55 |  0.9995 |
+| Linear Regression   |     8.31 |   2.55 |  0.9995 |
 | Gradient Boosting        |  3869.95 |  46.17 |  0.7708 |
 | Random Forest            |  4324.12 |  48.24 |  0.7439 |
 | XGBoost                  |  6084.04 |  57.37 |  0.6397 |
